@@ -8,7 +8,7 @@ Voir Msys2 : https://www.msys2.org/
 Pour ajouter le Menu contextuel, ouvrez l'éditeur de registre en tant qu'administrateur, allez dans le menu fichier et cliquez sur "importer...".
 Sélectionnez le fichier context_menu_msys.reg.
 
-Pour retirez le menu contextuel, faite la même chose mais en sélectionnant supprimer.reg.
+Pour retirer le menu contextuel, faites la même chose mais en sélectionnant supprimer.reg.
 
 ## Note :
 
